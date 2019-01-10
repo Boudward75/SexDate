@@ -1,0 +1,13 @@
+body {
+  background-color: red;
+  width: 100pv;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+h1 {
+  color: black;
+  font-size: 200px;
+}
